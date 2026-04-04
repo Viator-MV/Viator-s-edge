@@ -23,7 +23,7 @@
     stackDelta: 2
   - type: CEDamageable
   - type: CEDestructible
-    destroyThreshold: 14 # easier to destroy because of window
+    destroyThreshold: 15
     destroySound:
       collection: WoodDestroy
 
